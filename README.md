@@ -1,0 +1,2 @@
+# webapp_albergue_adventista_asistencia
+Administrar las asistencias provistas en albergue adventista
